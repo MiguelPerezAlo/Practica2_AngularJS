@@ -1,0 +1,26 @@
+{
+    "pruebapractica2App": {
+        "jugador" : {
+            "home": {
+                "title": "Jugadors",
+                "createLabel": "Créer un nouveau Jugador",
+                "createOrEditLabel": "Créer ou éditer un Jugador",
+                "search": "Search for Jugador"
+            },
+            "created": "Un nouveau Jugador a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Jugador avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Jugador avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Jugador {{ id }} ?"
+            },
+            "detail": {
+                "title": "Jugador"
+            },
+            "nombre": "Nombre",
+            "score": "Score",
+            "asistencias": "Asistencias",
+            "rebotes": "Rebotes"
+        }
+    }
+}
+
